@@ -1,0 +1,10 @@
+121 the time of mochongfu algorithm is 0.0 seconds while the time of average algorithm: 0.0 seconds.
+4098 the time of mochongfu algorithm is 0.0 seconds while the time of average algorithm: 0.062499046325683594 seconds.
+6 the time of mochongfu algorithm is 0.0 seconds while the time of average algorithm: 0.031321048736572266 seconds.
+412 the time of mochongfu algorithm is 0.0 seconds while the time of average algorithm: 0.0 seconds.
+1 the time of mochongfu algorithm is 0.0 seconds while the time of average algorithm: 0.0 seconds.
+216 the time of mochongfu algorithm is 0.0 seconds while the time of average algorithm: 0.0 seconds.
+9 the time of mochongfu algorithm is 0.0 seconds while the time of average algorithm: 0.0 seconds.
+64 the time of mochongfu algorithm is 0.0 seconds while the time of average algorithm: 0.0 seconds.
+443 the time of mochongfu algorithm is 0.0 seconds while the time of average algorithm: 0.015514850616455078 seconds.
+190991 the time of mochongfu algorithm is 0.0 seconds while the time of average algorithm: 7.670552015304565 seconds.
